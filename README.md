@@ -185,7 +185,7 @@ The different models used are:
 * Logistic Regression 
 * Naive Bayes
 * k Nearest Neighbors
-* 
+* SVM
 * Random Forest Classifier
 
 ## Support Vector Machine – Gaussian SVM
